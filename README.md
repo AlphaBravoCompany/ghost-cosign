@@ -12,7 +12,7 @@ AlphaBravo publishes its Ghost container-image verification key here so customer
 | Key ID | `ghost-356d5ea015368ccc` |
 | Algorithm | ECDSA P-256 |
 | Published | 2026-10-24 UTC |
-| Status | Published; factory activation and first release verification pending |
+| Status | Active for new factory signatures; signing canary verified 2026-10-24 UTC |
 | Fingerprint format | SHA-256 of DER-encoded SubjectPublicKeyInfo |
 
 ```text
